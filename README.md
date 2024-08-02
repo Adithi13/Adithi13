@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithi</h1>
 - 🔭 I’m passionate 3rd year  Engineering Student
 
-- 🌱 I’m currently learning **Artificial intelligence**
+- 🌱 I’m currently learning **Artificial intelligence** and **Machine Learning**
 
 - 📫 How to reach me **adithibhandary48@gmail.com**
 
