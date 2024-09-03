@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithi</h1>
-- 🔭 I’m passionate 3rd year  Engineering Student
+- 🔭 I’m passionate 4th year  Engineering Student
 
 - 🌱 I’m currently learning **Artificial intelligence** and **Machine Learning**
 
